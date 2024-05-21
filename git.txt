@@ -1,0 +1,19 @@
+$ git 
+$git init
+
+
+folder create
+git status
+-not a git repository.
+
+ls-a
+
+git init
+git status
+
+in git-bash
+ls-a
+
+cloning a repository
+git clone <repo.url>
+
