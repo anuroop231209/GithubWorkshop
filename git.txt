@@ -17,3 +17,5 @@ ls-a
 cloning a repository
 git clone <repo.url>
 
+git switch <Git branch name>
+
